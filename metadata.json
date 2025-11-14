@@ -1,0 +1,5 @@
+{
+  "name": "Image Optimizer Pro",
+  "description": "A powerful web tool to bulk compress, resize, and convert images to WebP format. Features quality control, aspect-ratio-maintained resizing, and a before-and-after comparison viewer.",
+  "requestFramePermissions": []
+}
